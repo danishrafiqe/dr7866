@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Fahad Saleem 👋
 
-<!--
-**dr7866/dr7866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</b>📱 Mobile App Developer with over 3 years of hands-on experience in crafting innovative and user-friendly mobile applications. Proficient in a variety of mobile development tools and frameworks, including:
 
-Here are some ideas to get you started:
+</b>🦋 Flutter Fanatic with Dart
+</b>🧹 Passionate about writing clean, efficient, and maintainable code
+</b>🧪 Advocate for Test-Driven Development (TDD)
+</b>🏗️ Enthusiastic about implementing clean architecture principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</b>🌟 My goal is to create high-quality, performant, and user-centric mobile apps. I'm always eager to learn and adapt to the ever-evolving world of mobile development.
+
+</b>📚 Continuous learner 🚀 Problem solver 🧰 Code craftsman
+
+</b>Let's connect and collaborate on exciting mobile app projects! 📲🚀
+
+</p>
