@@ -1,6 +1,6 @@
-### Hi there, I'm Fahad Saleem 👋
+### Hi there, I'm Danish Rafique 👋
 
-</b>📱 Mobile App Developer with over 3 years of hands-on experience in crafting innovative and user-friendly mobile applications. Proficient in a variety of mobile development tools and frameworks, including:
+</b>📱 Mobile App Developer with over 2 years of hands-on experience in crafting innovative and user-friendly mobile applications. Proficient in a variety of mobile development tools and frameworks, including:
 
 </b>🦋 Flutter Fanatic with Dart
 </b>🧹 Passionate about writing clean, efficient, and maintainable code
